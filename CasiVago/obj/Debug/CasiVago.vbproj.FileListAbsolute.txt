@@ -1,0 +1,10 @@
+C:\Users\franc\source\repos\CasiVago\CasiVago\bin\Debug\CasiVago.dll
+C:\Users\franc\source\repos\CasiVago\CasiVago\bin\Debug\CasiVago.pdb
+C:\Users\franc\source\repos\CasiVago\CasiVago\bin\Debug\CasiVago.xml
+C:\Users\franc\source\repos\CasiVago\CasiVago\obj\Debug\CasiVago.vbproj.AssemblyReference.cache
+C:\Users\franc\source\repos\CasiVago\CasiVago\obj\Debug\CasiVago.Resources.resources
+C:\Users\franc\source\repos\CasiVago\CasiVago\obj\Debug\CasiVago.vbproj.GenerateResource.cache
+C:\Users\franc\source\repos\CasiVago\CasiVago\obj\Debug\CasiVago.vbproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\CasiVago\CasiVago\obj\Debug\CasiVago.dll
+C:\Users\franc\source\repos\CasiVago\CasiVago\obj\Debug\CasiVago.xml
+C:\Users\franc\source\repos\CasiVago\CasiVago\obj\Debug\CasiVago.pdb

@@ -1,0 +1,143 @@
+C:\Users\franc\source\repos\CasiVago\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\franc\source\repos\CasiVago\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\franc\source\repos\CasiVago\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\franc\source\repos\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\franc\source\repos\CasiVago\Presentacion\obj\Debug\Presentacion.menuLogin.resources
+C:\Users\franc\source\repos\CasiVago\Presentacion\obj\Debug\Presentacion.Registrar.resources
+C:\Users\franc\source\repos\CasiVago\Presentacion\obj\Debug\Presentacion.Reservar.resources
+C:\Users\franc\source\repos\CasiVago\Presentacion\obj\Debug\Presentacion.verReservas.resources
+C:\Users\franc\source\repos\CasiVago\Presentacion\obj\Debug\Presentacion.menuReservas.resources
+C:\Users\franc\source\repos\CasiVago\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\franc\source\repos\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\franc\source\repos\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\CasiVago\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\franc\source\repos\CasiVago\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\franc\source\repos\CasiVago\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\franc\source\repos\CasiVago\Presentacion\bin\Debug\logica.dll
+C:\Users\franc\source\repos\CasiVago\Presentacion\bin\Debug\logica.pdb
+C:\Users\franc\source\repos\CasiVago\Presentacion\bin\Debug\logica.xml
+C:\Users\franc\source\repos\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\franc\source\repos\CasiVago\Presentacion\bin\Debug\Datos.dll
+C:\Users\franc\source\repos\CasiVago\Presentacion\bin\Debug\Datos.pdb
+C:\Users\franc\source\repos\CasiVago\Presentacion\bin\Debug\Datos.xml
+C:\Users\franc\Desktop\CasiVago\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\franc\Desktop\CasiVago\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\franc\Desktop\CasiVago\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\franc\Desktop\CasiVago\Presentacion\bin\Debug\logica.dll
+C:\Users\franc\Desktop\CasiVago\Presentacion\bin\Debug\Datos.dll
+C:\Users\franc\Desktop\CasiVago\Presentacion\bin\Debug\logica.pdb
+C:\Users\franc\Desktop\CasiVago\Presentacion\bin\Debug\logica.xml
+C:\Users\franc\Desktop\CasiVago\Presentacion\bin\Debug\Datos.pdb
+C:\Users\franc\Desktop\CasiVago\Presentacion\bin\Debug\Datos.xml
+C:\Users\franc\Desktop\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\franc\Desktop\CasiVago\Presentacion\obj\Debug\Presentacion.menuLogin.resources
+C:\Users\franc\Desktop\CasiVago\Presentacion\obj\Debug\Presentacion.Registrar.resources
+C:\Users\franc\Desktop\CasiVago\Presentacion\obj\Debug\Presentacion.Reservar.resources
+C:\Users\franc\Desktop\CasiVago\Presentacion\obj\Debug\Presentacion.verReservas.resources
+C:\Users\franc\Desktop\CasiVago\Presentacion\obj\Debug\Presentacion.menuReservas.resources
+C:\Users\franc\Desktop\CasiVago\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\franc\Desktop\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\franc\Desktop\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\franc\Desktop\CasiVago\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\franc\Desktop\CasiVago\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\franc\Desktop\CasiVago\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\franc\Desktop\CasiVago\Presentacion\obj\Debug\Presentacion.msgAceptar.resources
+C:\Users\franc\Desktop\CasiVago\Presentacion\obj\Debug\Presentacion.menuAdmin.resources
+C:\Users\franc\Desktop\CasiVago\Presentacion\obj\Debug\Presentacion.VerListaUsuario.resources
+C:\Users\franc\Desktop\CasiVago\Presentacion\bin\Debug\UIDC.dll
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\bin\Debug\logica.dll
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\bin\Debug\Datos.dll
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\bin\Debug\logica.pdb
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\bin\Debug\logica.xml
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\bin\Debug\Datos.pdb
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\bin\Debug\Datos.xml
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.Aeropuerto.resources
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.Avion.resources
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.Identificacion.resources
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.Itinerario.resources
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.Pais.resources
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.VerListaUsuario.resources
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.menuAdmin.resources
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.menuLogin.resources
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.msgAceptar.resources
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.Registrar.resources
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.Reservar.resources
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.verReservas.resources
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.menuReservas.resources
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.Aeropuerto.resources
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.Avion.resources
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.Identificacion.resources
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.Itinerario.resources
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.Pais.resources
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.Registrar.resources
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.RegistroAdmin.resources
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.VerListaUsuario.resources
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.menuAdmin.resources
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.menuLogin.resources
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.msgAceptar.resources
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.Reservar.resources
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.verReservas.resources
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.menuReservas.resources
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\bin\Debug\logica.dll
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\bin\Debug\Datos.dll
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\bin\Debug\logica.pdb
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\bin\Debug\logica.xml
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\bin\Debug\Datos.pdb
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\bin\Debug\Datos.xml
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\Presentacion\obj\Debug\Presentacion.Modificar_Reserva.resources
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\bin\Debug\logica.dll
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\bin\Debug\Datos.dll
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\bin\Debug\logica.pdb
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\bin\Debug\logica.xml
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\bin\Debug\Datos.pdb
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\bin\Debug\Datos.xml
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.Aeropuerto.resources
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.Avion.resources
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.Identificacion.resources
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.Itinerario.resources
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.Modificar_Reserva.resources
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.Pais.resources
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.Registrar.resources
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.RegistroAdmin.resources
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.VerListaUsuario.resources
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.menuAdmin.resources
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.menuLogin.resources
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.msgAceptar.resources
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.Reservar.resources
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.verReservas.resources
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.menuReservas.resources
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\franc\Downloads\Proyecto final\CasiVago\Presentacion\obj\Debug\Presentacion.pdb

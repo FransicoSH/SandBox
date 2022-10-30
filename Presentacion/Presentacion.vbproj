@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EE255830-A499-461C-9702-65CB160976E6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Presentacion</RootNamespace>
+    <AssemblyName>Presentacion</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Presentacion.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Presentacion.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Presentacion.My.MyApplication</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="UIDC">
+      <HintPath>..\..\img\UIDC.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aeropuerto.designer.vb">
+      <DependentUpon>Aeropuerto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aeropuerto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Avion.designer.vb">
+      <DependentUpon>Avion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Avion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Identificacion.designer.vb">
+      <DependentUpon>Identificacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Identificacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Itinerario.designer.vb">
+      <DependentUpon>Itinerario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Itinerario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar_Reserva.Designer.vb">
+      <DependentUpon>Modificar_Reserva.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar_Reserva.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Pais.designer.vb">
+      <DependentUpon>Pais.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pais.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registrar.designer.vb">
+      <DependentUpon>Registrar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Registrar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroAdmin.designer.vb">
+      <DependentUpon>RegistroAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerListaUsuario.Designer.vb">
+      <DependentUpon>VerListaUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VerListaUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuAdmin.Designer.vb">
+      <DependentUpon>menuAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menuAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuLogin.Designer.vb">
+      <DependentUpon>menuLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menuLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MsgPersonalizados\msgAceptar.Designer.vb">
+      <DependentUpon>msgAceptar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MsgPersonalizados\msgAceptar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reservar.Designer.vb">
+      <DependentUpon>Reservar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reservar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="verReservas.Designer.vb">
+      <DependentUpon>verReservas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="verReservas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuReservas.Designer.vb">
+      <DependentUpon>menuReservas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menuReservas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Aeropuerto.resx">
+      <DependentUpon>Aeropuerto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Avion.resx">
+      <DependentUpon>Avion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Identificacion.resx">
+      <DependentUpon>Identificacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Itinerario.resx">
+      <DependentUpon>Itinerario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar_Reserva.resx">
+      <DependentUpon>Modificar_Reserva.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pais.resx">
+      <DependentUpon>Pais.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registrar.resx">
+      <DependentUpon>Registrar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroAdmin.resx">
+      <DependentUpon>RegistroAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerListaUsuario.resx">
+      <DependentUpon>VerListaUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuAdmin.resx">
+      <DependentUpon>menuAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuLogin.resx">
+      <DependentUpon>menuLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MsgPersonalizados\msgAceptar.resx">
+      <DependentUpon>msgAceptar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reservar.resx">
+      <DependentUpon>Reservar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="verReservas.resx">
+      <DependentUpon>verReservas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuReservas.resx">
+      <DependentUpon>menuReservas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-155380716-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\logica\Logica.vbproj">
+      <Project>{52fb7ce0-45ce-49cf-a341-f61c9239267a}</Project>
+      <Name>Logica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reserva.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cheque.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoProyecto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f.elconfidencial.com_original_9ea_2b2_df3_9ea2b2df3d0eb0a4bd7042e4ed08d84f.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondoRserva.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar-sesion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reserva %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lista-de-usuarios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\itinerario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\itinerario %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\itinerario %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salvar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paises.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton-x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aeropuerto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viajar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xml %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\importar %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editar %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\opcion-de-cerrar-sesion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregar-usuario.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

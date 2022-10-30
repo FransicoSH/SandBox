@@ -1,0 +1,70 @@
+C:\Users\franc\source\repos\CasiVago\logica\bin\Debug\logica.dll
+C:\Users\franc\source\repos\CasiVago\logica\bin\Debug\logica.pdb
+C:\Users\franc\source\repos\CasiVago\logica\bin\Debug\logica.xml
+C:\Users\franc\source\repos\CasiVago\logica\bin\Debug\Datos.dll
+C:\Users\franc\source\repos\CasiVago\logica\bin\Debug\Datos.pdb
+C:\Users\franc\source\repos\CasiVago\logica\bin\Debug\Datos.xml
+C:\Users\franc\source\repos\CasiVago\logica\obj\Debug\logica.vbproj.AssemblyReference.cache
+C:\Users\franc\source\repos\CasiVago\logica\obj\Debug\logica.Resources.resources
+C:\Users\franc\source\repos\CasiVago\logica\obj\Debug\logica.vbproj.GenerateResource.cache
+C:\Users\franc\source\repos\CasiVago\logica\obj\Debug\logica.vbproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\CasiVago\logica\obj\Debug\logica.vbproj.CopyComplete
+C:\Users\franc\source\repos\CasiVago\logica\obj\Debug\logica.dll
+C:\Users\franc\source\repos\CasiVago\logica\obj\Debug\logica.xml
+C:\Users\franc\source\repos\CasiVago\logica\obj\Debug\logica.pdb
+C:\Users\franc\Desktop\CasiVago\logica\bin\Debug\logica.dll
+C:\Users\franc\Desktop\CasiVago\logica\bin\Debug\logica.pdb
+C:\Users\franc\Desktop\CasiVago\logica\bin\Debug\logica.xml
+C:\Users\franc\Desktop\CasiVago\logica\bin\Debug\Datos.dll
+C:\Users\franc\Desktop\CasiVago\logica\bin\Debug\Datos.pdb
+C:\Users\franc\Desktop\CasiVago\logica\bin\Debug\Datos.xml
+C:\Users\franc\Desktop\CasiVago\logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\franc\Desktop\CasiVago\logica\obj\Debug\logica.Resources.resources
+C:\Users\franc\Desktop\CasiVago\logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\franc\Desktop\CasiVago\logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\CasiVago\logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\franc\Desktop\CasiVago\logica\obj\Debug\logica.dll
+C:\Users\franc\Desktop\CasiVago\logica\obj\Debug\logica.xml
+C:\Users\franc\Desktop\CasiVago\logica\obj\Debug\logica.pdb
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\logica\bin\Debug\logica.dll
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\logica\bin\Debug\logica.pdb
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\logica\bin\Debug\logica.xml
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\logica\bin\Debug\Datos.dll
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\logica\bin\Debug\Datos.pdb
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\logica\bin\Debug\Datos.xml
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\logica\obj\Debug\logica.Resources.resources
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\logica\obj\Debug\logica.dll
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\logica\obj\Debug\logica.xml
+C:\Users\franc\Downloads\Nueva carpeta (2)\CasiVago\logica\obj\Debug\logica.pdb
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\logica\bin\Debug\logica.dll
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\logica\bin\Debug\logica.pdb
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\logica\bin\Debug\logica.xml
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\logica\bin\Debug\Datos.dll
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\logica\bin\Debug\Datos.pdb
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\logica\bin\Debug\Datos.xml
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\logica\obj\Debug\logica.Resources.resources
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\logica\obj\Debug\logica.dll
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\logica\obj\Debug\logica.xml
+C:\Users\franc\Desktop\Nueva carpeta (2)\CasiVago\logica\obj\Debug\logica.pdb
+C:\Users\franc\Downloads\Proyecto final\CasiVago\logica\bin\Debug\logica.dll
+C:\Users\franc\Downloads\Proyecto final\CasiVago\logica\bin\Debug\logica.pdb
+C:\Users\franc\Downloads\Proyecto final\CasiVago\logica\bin\Debug\logica.xml
+C:\Users\franc\Downloads\Proyecto final\CasiVago\logica\bin\Debug\Datos.dll
+C:\Users\franc\Downloads\Proyecto final\CasiVago\logica\bin\Debug\Datos.pdb
+C:\Users\franc\Downloads\Proyecto final\CasiVago\logica\bin\Debug\Datos.xml
+C:\Users\franc\Downloads\Proyecto final\CasiVago\logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\franc\Downloads\Proyecto final\CasiVago\logica\obj\Debug\logica.Resources.resources
+C:\Users\franc\Downloads\Proyecto final\CasiVago\logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\franc\Downloads\Proyecto final\CasiVago\logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\franc\Downloads\Proyecto final\CasiVago\logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\franc\Downloads\Proyecto final\CasiVago\logica\obj\Debug\logica.dll
+C:\Users\franc\Downloads\Proyecto final\CasiVago\logica\obj\Debug\logica.xml
+C:\Users\franc\Downloads\Proyecto final\CasiVago\logica\obj\Debug\logica.pdb
